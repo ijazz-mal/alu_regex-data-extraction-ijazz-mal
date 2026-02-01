@@ -24,6 +24,6 @@ Random HTML: <ul><li>Item1<li>Item2</ul> <span>open tag
 
 Remember to check https://github.com/user/repo, http://example, www.noscheme.net, https://secure.site.com/page  
 
-Time weirdness: 13:45, 99:99, 00:00, 7:7, 23:59  
+Time weirdness: 13:45, 99:99, 00:00, 07:07 AM, 23:59   
 
 #tags #mixed #123abc #invalid tag #anotherOne
