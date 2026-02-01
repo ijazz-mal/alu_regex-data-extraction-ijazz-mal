@@ -1,0 +1,29 @@
+Hey check this out: #WebDev is trending! Call me at +1-303-555-0199 or 4045550123. Prices dropped to $49.99, but someone typed $4..99 yesterday.  
+
+<div>Oops <p>nested wrong</div> visit https://example.com/page or just type www.fakeurl.com and see.  
+
+Lunch at 12:30? Or maybe 24:01… who knows #LunchTime #oops #100DaysOfCode.  
+
+Reach out at (212) 555-0133 or +44 20 7946 0958. Invalid ones: 12345, 555-ABC-7890, +99 9999.  
+
+I spent €1,500 on books, ¥3000 on snacks, but then typed €15,0,0 and ¥30-00.  
+
+<p>Paragraph starts <strong>bold</span> mismatched</p> Another tag <br> <img src="image.jpg">  
+
+Check these links: https://sub.domain.co.uk/path?arg=val, http//missingcolon.com, https://, htp://oops.com, www.justtext.com  
+
+Meeting at 07:05, next one at 25:99 (typo), or maybe 8:5.  
+
+#fun #invalid#tag #123 #hello_world #space tag  
+
+Phone: +1-202-555-0127, 2025550188, (123) 456-789, +12 345, 555-xyz-1234  
+
+Cost breakdown: $100, £75.50, $12..99, €999, ¥500, 100USD, $$200  
+
+Random HTML: <ul><li>Item1<li>Item2</ul> <span>open tag  
+
+Remember to check https://github.com/user/repo, http://example, www.noscheme.net, https://secure.site.com/page  
+
+Time weirdness: 13:45, 99:99, 00:00, 7:7, 23:59  
+
+#tags #mixed #123abc #invalid tag #anotherOne
