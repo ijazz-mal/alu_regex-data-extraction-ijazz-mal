@@ -57,8 +57,6 @@ def validate_hashtag(tag: str) -> bool:  #rejects hashtags that are too long.
         return False
     return True
 
-import re
-
 def validate_currency(candidate: str) -> str | None:
 
     candidate = candidate.strip()
