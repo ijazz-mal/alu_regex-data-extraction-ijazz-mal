@@ -11,6 +11,14 @@ URL_candidates = re.findall(URLpattern, txt)
 
 hashtagpattern = r"(#[A-Za-z0-9_]+)" #hashtags like #example_01
 hashtag_candidates = re.findall(hashtagpattern, txt)
-print("Time Candidates:", time_candidates)
-print("URL Candidates:", URL_candidates)
-print("Hashtag Candidates:", hashtag_candidates)
+
+telpattern = r"\b([+]?[\d\s-]{8,})" #minimal digits being 8 for a phone number with optional +, spaces or dashes
+tel_candidates = re.findall(telpattern, txt)
+
+moneypattern = r"\s([$₹€£¥]{1}(?:\s)?[\d,]+(?:\.\d{1,2})?|[\d,]+(?:\.\d{1,2})?(?:\s)?[$€£¥₹]{1})"#currency patterns like $12.00 or 12.34$
+money_candidates = re.findall(moneypattern, txt)
+
+HTMLpattern =  r"<(?:\/)?\w+(?:\s\w+=\"(?:[A-Za-z0-9-._@%#&*:\s]+)?\")?(?:\s+)?(?:\/)?>"#HTML tags like <div class="example"> or </p> or <img src="image.png" />
+HTML_candidates = re.findall(HTMLpattern, txt)
+
+#---------------------------------EXTRACTION DONE!!!!-------------------------------------------------------
