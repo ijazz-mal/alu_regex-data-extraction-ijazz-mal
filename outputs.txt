@@ -1,0 +1,65 @@
+Time:
+12:30
+07:05 PM
+13:45
+00:00
+07:07 AM
+23:59
+
+URLs:
+https://example.com/page
+https://sub.domain.co.uk/path?arg=val
+https://github.com/user/repo
+http://example
+https://secure.site.com/page
+
+Hashtags:
+#WebDev
+#LunchTime
+#oops
+#100DaysOfCode
+#fun
+#invalid
+#tag
+#123
+#hello_world
+#space
+#tags
+#mixed
+#123abc
+#invalid
+#anotherOne
+
+Phone Numbers:
+*******0199
+******0123
+********0958
+*******0127
+******0188
+
+Money Amounts:
+$49.99,
+€1,500
+¥3000
+¥30
+$100,
+£75.50,
+€999,
+¥500,
+$23,786
+
+HTML Tags:
+<div>
+<p>
+</div>
+<p>
+<strong>
+</span>
+</p>
+<br>
+<img src="image.jpg">
+<ul>
+<li>
+<li>
+</ul>
+<span>

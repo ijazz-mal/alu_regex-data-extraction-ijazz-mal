@@ -12,13 +12,13 @@ I spent €1,500 on books, ¥3000 on snacks, but then typed €15,0,0 and ¥30-0
 
 Check these links: https://sub.domain.co.uk/path?arg=val, http//missingcolon.com, https://, htp://oops.com, www.justtext.com  
 
-Meeting at 07:05, next one at 25:99 (typo), or maybe 8:5.  
+Meeting at 07:05 PM, next one at 25:99 (typo), or maybe 8:5.  
 
 #fun #invalid#tag #123 #hello_world #space tag  
 
 Phone: +1-202-555-0127, 2025550188, (123) 456-789, +12 345, 555-xyz-1234  
 
-Cost breakdown: $100, £75.50, $12..99, €999, ¥500, 100USD, $$200  
+Cost breakdown: $100, £75.50, $12..99, €999, ¥500, 100USD, $$200, $23,786
 
 Random HTML: <ul><li>Item1<li>Item2</ul> <span>open tag  
 
